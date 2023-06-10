@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T13:58:05.068Z" agent="Mozilla/5.0 (Linux; arm_64; Android 11; RMX2063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.50.1 YaSearchBrowser/23.50.1 BroPP/1.0 SA/3 Mobile Safari/537.36" etag="nqUBoh1G3YaM0EPYGBEU" version="21.3.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-10T13:59:30.265Z" agent="Mozilla/5.0 (Linux; arm_64; Android 11; RMX2063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.50.1 YaSearchBrowser/23.50.1 BroPP/1.0 SA/3 Mobile Safari/537.36" etag="meVmD9DvF_MwqAnkmMSe" version="21.3.8" type="github" pages="2">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1443" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -109,6 +109,9 @@
         <mxCell id="KheuGGBMibdA3uTBBUTA-67" value="Проверка пустых кассет + размер остатка ДС" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="222.5" width="165" height="107.5" as="geometry" />
         </mxCell>
+        <mxCell id="KheuGGBMibdA3uTBBUTA-83" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KheuGGBMibdA3uTBBUTA-69" target="KheuGGBMibdA3uTBBUTA-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KheuGGBMibdA3uTBBUTA-69" value="Контроль в почте наличия заявки на инкассацию по&amp;nbsp; ID (дата)" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="690" y="203.13" width="160" height="143.75" as="geometry" />
         </mxCell>
@@ -126,6 +129,9 @@
         </mxCell>
         <mxCell id="KheuGGBMibdA3uTBBUTA-80" value="Мониторинг VV&lt;br&gt;По запросу (конкретный УС)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="50" y="60" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KheuGGBMibdA3uTBBUTA-82" value="Запрос в управление инкассации" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="890" y="207.51" width="140" height="134.99" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
