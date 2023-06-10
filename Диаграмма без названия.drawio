@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T13:14:50.926Z" agent="Mozilla/5.0 (Linux; arm_64; Android 11; RMX2063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.50.1 YaSearchBrowser/23.50.1 BroPP/1.0 SA/3 Mobile Safari/537.36" etag="I3i3cGE4lCD4WiWjkwg-" version="21.3.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-10T13:25:22.121Z" agent="Mozilla/5.0 (Linux; arm_64; Android 11; RMX2063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.50.1 YaSearchBrowser/23.50.1 BroPP/1.0 SA/3 Mobile Safari/537.36" etag="5N_4wKqGvglCUKxro1W1" version="21.3.8" type="github" pages="2">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1937" dy="2877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1574" dy="2284" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
         <mxCell id="KheuGGBMibdA3uTBBUTA-44" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KheuGGBMibdA3uTBBUTA-25" target="KheuGGBMibdA3uTBBUTA-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KheuGGBMibdA3uTBBUTA-25" value="Остатки" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="235" width="120" height="80" as="geometry" />
+        <mxCell id="KheuGGBMibdA3uTBBUTA-25" value="Минимальные остатки" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="235" width="170" height="95" as="geometry" />
         </mxCell>
         <mxCell id="KheuGGBMibdA3uTBBUTA-39" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KheuGGBMibdA3uTBBUTA-29" target="KheuGGBMibdA3uTBBUTA-38">
           <mxGeometry relative="1" as="geometry" />
@@ -31,11 +31,11 @@
         <mxCell id="KheuGGBMibdA3uTBBUTA-29" value="Связь" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KheuGGBMibdA3uTBBUTA-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KheuGGBMibdA3uTBBUTA-31" target="KheuGGBMibdA3uTBBUTA-43">
+        <mxCell id="KheuGGBMibdA3uTBBUTA-51" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KheuGGBMibdA3uTBBUTA-31" target="KheuGGBMibdA3uTBBUTA-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KheuGGBMibdA3uTBBUTA-31" value="Открытые инциденты" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="340" width="140" height="100" as="geometry" />
+          <mxGeometry x="265" y="371.25" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="KheuGGBMibdA3uTBBUTA-36" value="Выгрузка отчёта о &lt;br&gt;технической доступности &lt;br&gt;по запросу РДО" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-40" y="400" width="280" height="180" as="geometry" />
@@ -43,14 +43,23 @@
         <mxCell id="KheuGGBMibdA3uTBBUTA-41" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KheuGGBMibdA3uTBBUTA-38" target="KheuGGBMibdA3uTBBUTA-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KheuGGBMibdA3uTBBUTA-38" value="Уточнение статуса ОТРС + РК" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="KheuGGBMibdA3uTBBUTA-38" value="Уточнение статуса&lt;br&gt;УС в ОТРС + РК" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="420" y="-20" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="KheuGGBMibdA3uTBBUTA-40" value="Запрос информации о локации у К/А" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="KheuGGBMibdA3uTBBUTA-49" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KheuGGBMibdA3uTBBUTA-40" target="KheuGGBMibdA3uTBBUTA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KheuGGBMibdA3uTBBUTA-40" value="Запрос информации о локации у К/А &lt;br&gt;(наличие э/э)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="630" y="25" width="200" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="KheuGGBMibdA3uTBBUTA-43" value="Проверка заявки на инкассацию" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="440" y="192.5" width="220" height="165" as="geometry" />
+        <mxCell id="KheuGGBMibdA3uTBBUTA-43" value="Контроль заявок на инкассацию" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="490" y="193.75" width="220" height="177.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KheuGGBMibdA3uTBBUTA-48" value="Предоставление информации РК" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2.5" width="140" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="KheuGGBMibdA3uTBBUTA-50" value="Длительные&lt;br&gt;&amp;nbsp;(свыше 3-х дней)" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="540" width="192.5" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
