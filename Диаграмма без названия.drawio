@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T14:07:01.129Z" agent="Mozilla/5.0 (Linux; arm_64; Android 11; RMX2063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.50.1 YaSearchBrowser/23.50.1 BroPP/1.0 SA/3 Mobile Safari/537.36" etag="4qG34PaM4D3LZRKp6KpL" version="21.3.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-10T14:09:30.215Z" agent="Mozilla/5.0 (Linux; arm_64; Android 11; RMX2063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.50.1 YaSearchBrowser/23.50.1 BroPP/1.0 SA/3 Mobile Safari/537.36" etag="7O5kKPNCkb3JrH8uB6ax" version="21.3.8" type="github" pages="2">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1665" dy="2433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="KheuGGBMibdA3uTBBUTA-56" value="На контроль" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;rounded=1;arcSize=18;" vertex="1" parent="1">
           <mxGeometry x="730" y="379.38" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KheuGGBMibdA3uTBBUTA-61" value="Аналитика для &lt;br&gt;финансового&lt;br&gt;&amp;nbsp;результата" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="KheuGGBMibdA3uTBBUTA-61" value="Аналитика&lt;br&gt;&amp;nbsp;длительных простоев&lt;br&gt;для оценки&lt;br&gt;финансового&lt;br&gt;&amp;nbsp;результата" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-290" y="180" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="KheuGGBMibdA3uTBBUTA-63" value="Контроль транзакционной &lt;br&gt;нагрузки по новым&lt;br&gt;&amp;nbsp;банкоматам" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;arcSize=50;fontSize=16;" vertex="1" parent="1">
